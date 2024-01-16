@@ -31,7 +31,7 @@ def run(csvuser):
         fg = FeedGenerator()
         fg.id('https://tiktok.com/@' + csvuser)
         fg.title(csvuser + ' TikTok')
-        fg.author( {'name':'MonkinVideos','email':'media@monkinvideos.com} )
+        fg.author( {'name':'MonkinVideos','email':'media@monkinvideos.com'} )
         fg.link( href='http://tiktok.com', rel='alternate' )
         fg.logo(ghPagesURL + 'tiktok-rss.png')
         fg.subtitle('OK Boomer, all the latest TikToks from ' + csvuser)
