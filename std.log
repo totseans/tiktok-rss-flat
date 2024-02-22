@@ -1,2 +1,2 @@
-2024-02-22 16:18:31,158 Using selector: EpollSelector
-2024-02-22 16:19:01,746 Error: net::ERR_TIMED_OUT at https://www.tiktok.com/@monkinvideos
+2024-02-22 17:17:01,549 Using selector: EpollSelector
+2024-02-22 17:19:03,903 Error: Data scraping unable to complete in 60.0s (retries: 3)
