@@ -1,2 +1,5 @@
-2024-07-27 04:18:39,295 Using selector: EpollSelector
-2024-07-27 04:20:41,539 Error: Data scraping unable to complete in 60.0s (retries: 3)
+2024-07-27 05:17:48,977 Using selector: EpollSelector
+2024-07-27 05:17:52,682 Error: Page.goto: net::ERR_CONNECTION_CLOSED at https://www.tiktok.com/@monkinvideos
+Call log:
+navigating to "https://www.tiktok.com/@monkinvideos", waiting until "load"
+
